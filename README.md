@@ -1,2 +1,3 @@
 # henrysmind
-main repository for stuff
+Personal docs
+
